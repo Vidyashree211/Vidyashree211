@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vidyashree R
+- 👀 An enthusiastic who is passionate about diving into Machine Learning, Deep Learning and Web development.
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on ML Projects, CNN projects and Web development
+- 📫 How to reach me vidyashreer1821@gmail.com
